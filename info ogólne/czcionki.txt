@@ -1,0 +1,4 @@
+Raleway warianty
+nagłowki / kontakt/ opcje w lewym gównym rogu: Semibold
+podtytuły / podpisy ikonek: Medium
+treść: Regular

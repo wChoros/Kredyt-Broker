@@ -1,0 +1,3 @@
+czerwień: #B4172C
+granatowy: #130F41
+beżowy: #DAC8B3
