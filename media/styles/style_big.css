@@ -461,5 +461,19 @@ aside a
     padding-left: 10px;
     padding-right: 10px;
 }
+ 
+article{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.s2-text-container
+{
+    width: 55%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 50px;
+    display: flex;
     
+}
+
 }
