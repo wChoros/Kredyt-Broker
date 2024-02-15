@@ -5,7 +5,10 @@
     --main-beige: #DAC8B3;
     font-size: 20px;
 }
-  
+#steady-block
+{
+    display: none;
+}
 html
 {
     scroll-behavior: smooth;

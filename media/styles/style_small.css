@@ -572,3 +572,14 @@ aside a
 {
     stroke: white;
 }
+.steady-block-hide
+{
+    display: none;
+}
+.steady-block-show
+{
+    display: block;
+    height: 150px;
+    width: 100%;
+}
+

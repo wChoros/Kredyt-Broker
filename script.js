@@ -6,6 +6,7 @@ menuItem = document.querySelectorAll('.small-menu-item');
 header = document.querySelector('header');
 loaded = true;
 hidden = true;
+block = document.querySelector('#steady-block');
 hamburger.addEventListener('click', () => {
   line.classList.toggle('line-show');
   hamburger.classList.toggle('opened');
@@ -35,6 +36,7 @@ hamburger.addEventListener('click', () => {
   });
 
   header.classList.toggle('header-menu-show');
-
+  block.classList.toggle('steady-block-show');
+  block.classList.toggle('steady-block-hide');
 
 });
